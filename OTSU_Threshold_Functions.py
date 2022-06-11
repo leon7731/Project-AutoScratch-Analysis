@@ -2,6 +2,7 @@ import streamlit as st
 
 import Custom_Functions as CF
 import EDA_Functions as EDA
+import matplotlib.pyplot as plt
 
 def OTSU_Threshold_Analysis():
     ### Part 1: OTSU Analysis ### 
