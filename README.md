@@ -1,6 +1,6 @@
 # **Project AutoScratch Analysis**
 
-1. ## **Introduction:**
+## 1.**Introduction:**
 - Project AutoScratch Analysis is a tool that is used for Automating the process of 
 analyzing and quantifying cell migration parameters such as speed, persistence, and polarity.
 
